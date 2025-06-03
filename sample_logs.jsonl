@@ -1,0 +1,28 @@
+{"@timestamp": "2025-06-03T02:35:22.191445Z", "level": "CRITICAL", "service": "analytics-pipeline", "msg": "Spark job completed"}
+{"@timestamp": "2025-06-03T02:35:24.191445Z", "level": "ERROR", "service": "checkout-api", "msg": "Received checkout request"}
+{"@timestamp": "2025-06-03T02:35:26.191445Z", "level": "DEBUG", "service": "payment-gateway", "msg": "Payment declined by issuer"}
+{"@timestamp": "2025-06-03T02:35:28.191445Z", "level": "DEBUG", "service": "checkout-api", "msg": "Retrying DB connection"}
+{"@timestamp": "2025-06-03T02:35:30.191445Z", "level": "INFO", "service": "checkout-api", "msg": "Validated cart items"}
+{"@timestamp": "2025-06-03T02:35:32.191445Z", "level": "DEBUG", "service": "checkout-api", "msg": "Failed to write transaction to DB"}
+{"@timestamp": "2025-06-03T02:35:34.191445Z", "level": "WARN", "service": "auth-service", "msg": "User login succeeded"}
+{"@timestamp": "2025-06-03T02:35:36.191445Z", "level": "INFO", "service": "checkout-api", "msg": "Received checkout request"}
+{"@timestamp": "2025-06-03T02:35:38.191445Z", "level": "DEBUG", "service": "payment-gateway", "msg": "Stripe API response delayed"}
+{"@timestamp": "2025-06-03T02:35:40.191445Z", "level": "DEBUG", "service": "search-service", "msg": "Elasticsearch cluster warning"}
+{"@timestamp": "2025-06-03T02:35:42.191445Z", "level": "ERROR", "service": "search-service", "msg": "Search indexing job started"}
+{"@timestamp": "2025-06-03T02:35:44.191445Z", "level": "CRITICAL", "service": "payment-gateway", "msg": "Received payment success callback"}
+{"@timestamp": "2025-06-03T02:35:46.191445Z", "level": "INFO", "service": "checkout-api", "msg": "Checkout succeeded"}
+{"@timestamp": "2025-06-03T02:35:48.191445Z", "level": "ERROR", "service": "payment-gateway", "msg": "Payment method not supported"}
+{"@timestamp": "2025-06-03T02:35:50.191445Z", "level": "CRITICAL", "service": "checkout-api", "msg": "Calculated total price"}
+{"@timestamp": "2025-06-03T02:35:52.191445Z", "level": "DEBUG", "service": "checkout-api", "msg": "Failed to write transaction to DB"}
+{"@timestamp": "2025-06-03T02:35:54.191445Z", "level": "CRITICAL", "service": "auth-service", "msg": "Refreshing session token"}
+{"@timestamp": "2025-06-03T02:35:56.191445Z", "level": "CRITICAL", "service": "analytics-pipeline", "msg": "Failed to write to data warehouse"}
+{"@timestamp": "2025-06-03T02:35:58.191445Z", "level": "INFO", "service": "payment-gateway", "msg": "Payment method not supported"}
+{"@timestamp": "2025-06-03T02:36:00.191445Z", "level": "DEBUG", "service": "recommendation-engine", "msg": "Model inference completed"}
+{"service": "checkout-api", "error": "DB connection timeout", "severity": "SEV-1"}
+{"@timestamp": "2025-06-03T02:37:32.191445Z", "level": "CRITICAL", "service": "checkout-api", "msg": "DB connection timeout"}
+{"@timestamp": "2025-06-03T02:37:48.191445Z", "level": "INFO", "service": "checkout-api", "msg": "DB connection timeout"}
+{"@timestamp": "2025-06-03T02:37:52.191445Z", "level": "INFO", "service": "checkout-api", "msg": "DB connection timeout"}
+{"@timestamp": "2025-06-03T02:39:40.191445Z", "level": "INFO", "service": "checkout-api", "msg": "DB connection timeout"}
+{"@timestamp": "2025-06-03T02:38:50.191445Z", "level": "DEBUG", "service": "auth-service", "msg": "Rate limit exceeded for IP"}
+{"@timestamp": "2025-06-03T02:39:00.191445Z", "level": "ERROR", "service": "auth-service", "msg": "Token validation failed"}
+{"@timestamp": "2025-06-03T02:40:18.191445Z", "level": "WARN", "service": "auth-service", "msg": "Token validation failed"}
