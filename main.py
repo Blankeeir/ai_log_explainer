@@ -28,7 +28,7 @@ from rich.markdown import Markdown
 console = Console()
 
 DEFAULT_LINES = 120
-DEFAULT_MODEL = "gpt-4o-mini"
+DEFAULT_MODEL = "gpt-4"
 
 SYSTEM_PROMPT = textwrap.dedent(
     """        You are a senior Site Reliability Engineer. Given recent JSON‑formatted
