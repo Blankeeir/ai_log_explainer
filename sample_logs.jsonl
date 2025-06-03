@@ -1,0 +1,3 @@
+{"@timestamp": "2025-06-03T02:35:22.191445Z", "level": "CRITICAL", "service": "analytics-pipeline", "msg": "Spark job completed"}
+{"service": "checkout-api", "error": "DB connection timeout", "severity": "SEV-1"}
+{"@timestamp": "2025-06-03T02:37:32.191445Z", "level": "CRITICAL", "service": "checkout-api", "msg": "DB connection timeout"}

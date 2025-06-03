@@ -1,0 +1,2 @@
+# Rename this file to `config.toml` and fill in your key
+OPENAI_API_KEY = "sk-REPLACE_ME"
